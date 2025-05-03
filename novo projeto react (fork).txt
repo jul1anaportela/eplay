@@ -1,0 +1,8 @@
+// novo projeto react (fork)
+npm i 
+
+// styled componentes e react router dom
+npm i --save styled-components react-router-dom
+
+// start
+npm start
