@@ -24,6 +24,7 @@ export type Game = {
   }
   details: {
     category: string
+    developer: string
     system: string
     publisher: string
     languages: string[]
